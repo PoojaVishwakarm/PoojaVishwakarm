@@ -1,5 +1,5 @@
 
-                           ![data analyst](https://github.com/user-attachments/assets/62d73e22-444e-4fe7-8098-b9a2ea72ef98)
+                           
 
 
 

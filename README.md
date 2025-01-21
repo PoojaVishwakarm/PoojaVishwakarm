@@ -26,10 +26,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+   # 👋 Hi, I'm Pooja Vishwakarma
 
-                                                      👋 Hi, I'm Pooja Vishwakarma
-
-                                          🔍 Data Analyst | Problem Solver | Insights Enthusiast
+  # 🔍 Data Analyst | Problem Solver | Insights Enthusiast
 
 ### 🛠 Tools & Technologies:
 

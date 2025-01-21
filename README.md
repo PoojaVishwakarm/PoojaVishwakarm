@@ -19,7 +19,7 @@
 
 
 
-- 👋 Hi, I’m @PoojaVishwakarm
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -27,9 +27,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-#                                                👋 Hi, I'm Pooja Vishwakarma
+                                                     ##   👋 Hi, I'm Pooja Vishwakarma
 
-## 🔍 Data Analyst | Problem Solver | Insights Enthusiast
+                                         ## 🔍 Data Analyst | Problem Solver | Insights Enthusiast
 
 ### 🛠 Tools & Technologies:
 

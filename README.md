@@ -40,7 +40,7 @@
 
 ### 📊 Featured Projects:
 
-1. **[Project Name](link-to-repo)**
+1. **[Covid-19](https://github.com/PoojaVishwakarm/Civid-19_analyst)**
    - Description: Brief about the project, datasets used, and insights.
    - Tools: Python, Tableau.
 2. **[Project Name](link-to-repo)**

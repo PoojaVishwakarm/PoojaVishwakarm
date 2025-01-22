@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="150" src="https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg"  />
+</div>
+
+
+
 # 💫 About Me:
 I’m currently learning Data Science<br>📫 My Portfolio <br>How to reach me poojavishwakarmaa7286@gmail.com<br>📄 Know about my experiences 
 
